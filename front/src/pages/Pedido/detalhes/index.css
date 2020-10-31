@@ -1,0 +1,5 @@
+#ingredientes-color{
+    background: -webkit-linear-gradient(#e84393, #0984e3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

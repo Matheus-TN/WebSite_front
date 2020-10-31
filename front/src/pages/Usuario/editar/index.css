@@ -1,0 +1,58 @@
+.usuario-update-left input{
+    background: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    height:35px;
+    width:300px;
+    font-size: 16px;
+    color: dimgray;
+}
+ 
+.usuario-update-right input{
+    background: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    height:35px;
+    width:300px;
+    font-size: 16px;
+    color: dimgray;
+}
+
+#formulario{
+    border: 2px solid #4c00ff;
+    background-color:  rgba(255, 255, 255, 0.623);
+    border-radius: 20px;
+    margin:2%;
+    padding:2%;
+}
+
+.usuario-update label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.usuario-update-left{
+
+    height: 100px;
+    width: 48%;
+    margin-top:10px;
+    text-align: center;
+    float: left;
+    padding-left: 200px;
+
+}
+
+.usuario-update-right{
+
+    height: 100px;
+    width: 48%;
+    margin-top:10px;
+    text-align: center;
+    float: left;
+    padding-right: 200px;
+}

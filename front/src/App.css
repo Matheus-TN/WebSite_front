@@ -1,0 +1,13 @@
+body{
+    background-image:linear-gradient(to right, #a29bfe, #0984e3);
+}
+
+#header{
+    position: relative;
+    color: #4c00ff;
+    width: 50%;
+    height: 50%;
+    margin:8% auto 0px;
+    text-align: center;
+}
+

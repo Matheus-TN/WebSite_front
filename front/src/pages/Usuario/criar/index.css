@@ -1,0 +1,81 @@
+.usuario-insert-left input{
+    background: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    height:35px;
+    width:300px;
+    font-size: 16px;
+    color: dimgray;
+}
+ 
+.usuario-insert-right input{
+    background: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    height:35px;
+    width:300px;
+    font-size: 16px;
+    color: dimgray;
+}
+
+.usuario-insert label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+#formulario{
+    border: 2px solid #4c00ff;
+    border-radius: 20px;
+    margin:2%;
+    padding:0 2% 0 2%;
+}
+
+.usuario-insert-left{
+
+    height: 100px;
+    width: 48%;
+    margin-top:10px;
+    text-align: center;
+    float: left;
+    padding-left: 200px;
+
+}
+
+.usuario-insert-right{
+
+    height: 100px;
+    width: 48%;
+    margin-top:10px;
+    text-align: center;
+    float: left;
+    padding-right: 200px;
+}
+
+#cadastrar2{
+    text-align: center;
+    margin-right: 40px;
+}
+
+#cadastrar2-button{
+    border: 2px solid green;
+    border-radius: 25px;
+    text-transform: uppercase;
+    height:50px;
+    width:100px;
+    margin: 20px
+}
+
+#cadastrar2-button:hover{
+    border: 2px solid green;
+    border-radius: 25px;
+    text-transform: uppercase;
+    height:50px;
+    width:200px;
+    margin: 20px;
+    transition: 0.25s;
+}

@@ -1,0 +1,77 @@
+#select{
+    margin: 30px 10%;
+    text-align: center;
+
+}
+
+.select_button{
+    height:70px;
+    width: 20%;
+    margin: 2px 50px;
+    border: 2px solid  #4c00ff;
+    border-radius: 25px;
+}
+
+.select_button:hover{
+    height:70px;
+    width: 20%;
+    margin: 2px 50px;
+    border: 4px solid  #4c00ff;
+    border-radius: 25px;
+
+}
+
+.container_usuario{
+    border: 2px solid #4c00ff;
+    border-radius: 25px;
+    margin: 10px;
+    padding:10px 40px;
+}
+
+#title{
+    text-align: center;
+}
+
+#cadastrar{
+    border: 2px solid green;
+    border-radius: 25px;
+    text-transform: uppercase;
+    float:right;
+    height:50px;
+    width:100px;
+    padding: 1px;
+}
+
+#cadastrar:hover{
+    border: 4px solid green;
+    border-radius: 25px;
+    text-transform: uppercase;
+    float:right;
+    height:50px;
+    width:100px;
+    padding: 1px;
+}
+
+.blue{
+    border: 2px solid blue;
+    background-color: none;
+    color: blue;
+    height: 40px;
+    width: 100px;
+}
+
+.yellow{
+    border: 2px solid yellow;
+    background-color: none;
+    color: rgb(87, 87, 6);
+    height: 40px;
+    width: 100px;
+}
+
+.red{
+    border: 2px solid red;
+    background-color: none;
+    color: red;
+    height: 40px;
+    width: 100px;
+}
